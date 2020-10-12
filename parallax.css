@@ -1,0 +1,51 @@
+#backimage1 {
+    background-image: url('hampi1.jpg');
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+}
+
+#backimage2 {
+    background-image: url('Hampi2.jpg');
+    position: relative;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+}
+
+#backimage3 {
+    background-image: url('hampi3.jpg');
+    position: relative;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+}
+
+p {
+    font-weight: bolder;
+    font-size: 20px;
+    font-variant: small-caps;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 1px black;
+    padding: 25px 50px;
+}
+
+h2 {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 40px;
+    font-variant: small-caps;
+    text-align: center;
+    position: relative;
+    top: 2px;
+}
